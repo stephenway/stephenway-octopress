@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Bower"
+date: 2012-09-11 07:16
+comments: false
+external-url: https://github.com/twitter/bower
+---
+Speaking of Yeoman, there is also a new package manager called Bower. It lets you install assets into your app like jQuery or backbone.
+
+{% codeblock lang:sh %}
+$ bower install jquery
+$ bower install git://github.com/maccman/package-jquery.git
+$ bower install http://code.jquery.com/jquery-1.7.2.js
+$ bower install ./repos/jquery
+{% endcodeblock %}
+
+For those of you familiar with Sublime Text's [3rd party package manager](http://wbond.net/sublime_packages/package_control), this is a breath of fresh air for managing projects in a shell.
+
+I didn't link to it's homepage because it's just an [image and a button](http://twitter.github.com/bower/).

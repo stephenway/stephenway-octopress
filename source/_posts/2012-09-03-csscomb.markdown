@@ -1,0 +1,14 @@
+---
+layout: post
+title: "CSScomb"
+date: 2012-09-03 14:20
+comments: false
+external-url: http://csscomb.com
+---
+Looks like a handy tool if you need to organize your properties. However, make sure to test your changes before publishing, what they don't tell you is that the order of CSS properties does affect the way your work is displayed, and it a good reason why the preprocessors haven't implemented this functionality.
+
+{% blockquote %}
+The Greatest tool for sorting CSS properties in specific order
+{% endblockquote %}
+
+Available as an online tool and in many text editors and IDEs.
