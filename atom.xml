@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Swy.me]]></title>
-  <link href="http://stephenway.github.com/atom.xml" rel="self"/>
-  <link href="http://stephenway.github.com/"/>
-  <updated>2013-02-10T21:22:35-08:00</updated>
-  <id>http://stephenway.github.com/</id>
+  <link href="http://swy.me/atom.xml" rel="self"/>
+  <link href="http://swy.me/"/>
+  <updated>2013-02-10T21:37:46-08:00</updated>
+  <id>http://swy.me/</id>
   <author>
     <name><![CDATA[Stephen Way]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[BrowserStack Bookmarklets]]></title>
-    <link href="http://stephenway.github.com/blog/2012/10/12/browserstack-bookmarklets/"/>
+    <link href="http://swy.me/blog/2012/10/12/browserstack-bookmarklets/"/>
     <updated>2012-10-12T10:12:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/10/12/browserstack-bookmarklets</id>
+    <id>http://swy.me/blog/2012/10/12/browserstack-bookmarklets</id>
     <content type="html"><![CDATA[<p>I&#8217;ve been so busy lately I forgot to report on my latest release, it&#8217;s not groundbreaking but definitely useful!</p>
 
 <p>BrowserStack is a service that provides cross-browser, cross-mobile testing to developers who need to test javascript and/or css. I thought it was so handy that I wanted to cut out some of the time I was spending with URLs and just get a set of bookmarks that let me call up a browser from the current site I was on. This is a complete set of browsers offered on this service.</p>
@@ -28,9 +28,9 @@
   
   <entry>
     <title type="html"><![CDATA[Google to drop support for IE8 in Nov.]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/15/google-to-drop-support-for-ie8-on-nov-15/"/>
+    <link href="http://swy.me/blog/2012/09/15/google-to-drop-support-for-ie8-on-nov-15/"/>
     <updated>2012-09-15T19:27:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/15/google-to-drop-support-for-ie8-on-nov-15</id>
+    <id>http://swy.me/blog/2012/09/15/google-to-drop-support-for-ie8-on-nov-15</id>
     <content type="html"><![CDATA[<p>Gregg Keizer writing for Computerworld:</p>
 
 <blockquote><p>Google will drop support for Microsoft&#8217;s Internet Explorer 8 (IE8) for its online apps and services in mid-November, effectively ending support for many users of Windows XP.</p></blockquote>
@@ -42,9 +42,9 @@
   
   <entry>
     <title type="html"><![CDATA[iOS 6]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/12/ios-6/"/>
+    <link href="http://swy.me/blog/2012/09/12/ios-6/"/>
     <updated>2012-09-12T11:00:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/12/ios-6</id>
+    <id>http://swy.me/blog/2012/09/12/ios-6</id>
     <content type="html"><![CDATA[<p>Today Apple announced a major update to it&#8217;s mobile operating system iOS. I&#8217;ve been using iOS 6 Beta for the past 3 months on my iPhone 4S and iPad 2 and I have to say it does improve upon some of the core apps that have shipped since the first iPhone. It also comes with one new app and many improved features.</p>
 
 <p>The user interface (UIKit) has gotten an update in how it handles the color of the system and app title bar. Now when an app has a colored title bar the system bar gets a slightly darker shade of the same color.</p>
@@ -93,9 +93,9 @@
   
   <entry>
     <title type="html"><![CDATA[Sublime Text vs. Chocolat]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/12/sublime-vs-chocolat/"/>
+    <link href="http://swy.me/blog/2012/09/12/sublime-vs-chocolat/"/>
     <updated>2012-09-12T09:32:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/12/sublime-vs-chocolat</id>
+    <id>http://swy.me/blog/2012/09/12/sublime-vs-chocolat</id>
     <content type="html"><![CDATA[<p>If I were comparing the two I would use these links as a major deciding point.</p>
 
 <p><a href="http://wbond.net/sublime_packages/community">Sublime Text Packages</a> &amp; <a href="http://mixins.chocolatapp.com/mixins/browse/">Cocolat Mixins</a></p>
@@ -106,9 +106,9 @@
   
   <entry>
     <title type="html"><![CDATA[iPhone 5]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/12/iphone-5/"/>
+    <link href="http://swy.me/blog/2012/09/12/iphone-5/"/>
     <updated>2012-09-12T08:57:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/12/iphone-5</id>
+    <id>http://swy.me/blog/2012/09/12/iphone-5</id>
     <content type="html"><![CDATA[<p>When I look at how big this thing is, I just think about how nice my 4S feels in my hand just using one hand. However I do have some big hands, I can easily touch any part of the screen with one hand. It&#8217;s important, using one hand when I&#8217;m holding my son, or holding a drink while I skim over the morning Twitter feed. The true test is always going to the Apple Store and holding one in your hand to see if it could be a match.</p>
 
 <h2>Ultrafast Wireless</h2>
@@ -125,9 +125,9 @@
   
   <entry>
     <title type="html"><![CDATA[Testing Websites in Game Console Browsers]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/11/testing-websites-in-game-console-browsers/"/>
+    <link href="http://swy.me/blog/2012/09/11/testing-websites-in-game-console-browsers/"/>
     <updated>2012-09-11T12:42:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/11/testing-websites-in-game-console-browsers</id>
+    <id>http://swy.me/blog/2012/09/11/testing-websites-in-game-console-browsers</id>
     <content type="html"><![CDATA[<p>Anna Debenham writing for A List Apart:</p>
 
 <blockquote><p>More than one in eight internet users in the UK, US, and France—and nearly one in four American teens—uses a game console to get online, according to studies from 2010 and 2011.</p></blockquote>
@@ -141,9 +141,9 @@
   
   <entry>
     <title type="html"><![CDATA[Bower]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/11/bower/"/>
+    <link href="http://swy.me/blog/2012/09/11/bower/"/>
     <updated>2012-09-11T07:16:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/11/bower</id>
+    <id>http://swy.me/blog/2012/09/11/bower</id>
     <content type="html"><![CDATA[<p>Speaking of Yeoman, there is also a new package manager called Bower. It lets you install assets into your app like jQuery or backbone.</p>
 
 <figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -165,9 +165,9 @@
   
   <entry>
     <title type="html"><![CDATA[Yeoman]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/10/yeoman/"/>
+    <link href="http://swy.me/blog/2012/09/10/yeoman/"/>
     <updated>2012-09-10T11:48:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/10/yeoman</id>
+    <id>http://swy.me/blog/2012/09/10/yeoman</id>
     <content type="html"><![CDATA[<p>A new front-end toolset, available today.</p>
 
 <blockquote><p>Yeoman is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.</p></blockquote>
@@ -193,9 +193,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tango Down]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/10/tango-down/"/>
+    <link href="http://swy.me/blog/2012/09/10/tango-down/"/>
     <updated>2012-09-10T11:48:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/10/tango-down</id>
+    <id>http://swy.me/blog/2012/09/10/tango-down</id>
     <content type="html"><![CDATA[<blockquote><p>#TangoDown &#8211; http://www.godaddy.com/  | by @AnonymousOwn3r |</p><footer><strong>@AnonOpsLegion</strong> <cite><a href='https://twitter.com/AnonOpsLegion/status/245218636187443200'>twitter.com/AnonOpsLegion/&hellip;</a></cite></footer></blockquote>
 
 
@@ -211,9 +211,9 @@
   
   <entry>
     <title type="html"><![CDATA[4 Years of Zen Coding]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/09/four-years-of-zen-coding/"/>
+    <link href="http://swy.me/blog/2012/09/09/four-years-of-zen-coding/"/>
     <updated>2012-09-09T21:16:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/09/four-years-of-zen-coding</id>
+    <id>http://swy.me/blog/2012/09/09/four-years-of-zen-coding</id>
     <content type="html"><![CDATA[<p>Chris Coyier on Emmet for Sublime Text:</p>
 
 <blockquote><p>Zen Coding is being sunset and is now Emmet. For sublime: https://github.com/sergeche/emmet-sublime &hellip; New features for CSS like w100p -> width: 100%;</p><footer><strong>@chriscoyier</strong> <cite><a href='https://twitter.com/chriscoyier/statuses/244904994216767491'>twitter.com/chriscoyier/&hellip;</a></cite></footer></blockquote>
@@ -227,9 +227,9 @@
   
   <entry>
     <title type="html"><![CDATA[AT&amp;T’s FaceTime Blocking Hurts the Deaf]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/08/at-and-ts-facetime-blocking-hurts-the-deaf/"/>
+    <link href="http://swy.me/blog/2012/09/08/at-and-ts-facetime-blocking-hurts-the-deaf/"/>
     <updated>2012-09-08T14:01:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/08/at-and-ts-facetime-blocking-hurts-the-deaf</id>
+    <id>http://swy.me/blog/2012/09/08/at-and-ts-facetime-blocking-hurts-the-deaf</id>
     <content type="html"><![CDATA[<p>Brendan Grammer writing for Wired:</p>
 
 <blockquote><p>It’s disappointing that AT&T is standing in the way of innovation that addresses the needs of its deaf and hard-of-hearing customers. Sometimes it takes a while (and some prodding) for technology and technology companies to catch up to and embrace accessibility. In this case the technology is there, but it’s AT&T that’s throwing up the barrier.</p></blockquote>
@@ -241,9 +241,9 @@
   
   <entry>
     <title type="html"><![CDATA[CoffeeScript Source Maps]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/08/coffeescript-source-maps/"/>
+    <link href="http://swy.me/blog/2012/09/08/coffeescript-source-maps/"/>
     <updated>2012-09-08T10:20:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/08/coffeescript-source-maps</id>
+    <id>http://swy.me/blog/2012/09/08/coffeescript-source-maps</id>
     <content type="html"><![CDATA[<blockquote><p>That’s it!</p><p>When you go to “Sources” in web inspector for a web page that includes test.js it will now show your CoffeeScript source files where you can set break points, hover variables to see their values, etc.</p></blockquote>
 
 
@@ -255,9 +255,9 @@
   
   <entry>
     <title type="html"><![CDATA[Finally]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/07/finally/"/>
+    <link href="http://swy.me/blog/2012/09/07/finally/"/>
     <updated>2012-09-07T19:28:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/07/finally</id>
+    <id>http://swy.me/blog/2012/09/07/finally</id>
     <content type="html"><![CDATA[<p>Reviewers getting started early this year on the anticipation of iOS 6. This could amount to an anxiety attack.</p>
 
 <p>Follow up from <a href="http://daringfireball.net/linked/2011/06/21/finally">&#9733; DF</a></p>
@@ -266,9 +266,9 @@
   
   <entry>
     <title type="html"><![CDATA[Web Inspector: Implement SCSS source highlighter]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/07/web-inspector-implement-scss-source-highlighter/"/>
+    <link href="http://swy.me/blog/2012/09/07/web-inspector-implement-scss-source-highlighter/"/>
     <updated>2012-09-07T18:01:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/07/web-inspector-implement-scss-source-highlighter</id>
+    <id>http://swy.me/blog/2012/09/07/web-inspector-implement-scss-source-highlighter</id>
     <content type="html"><![CDATA[<p>Alexander Pavlov on the Chromium team:</p>
 
 <blockquote><p>This change modifies the existing CSS highlighter to support SCSS as well. The &#8220;text/x-scss&#8221; mime-type is assigned to SASSSource.</p></blockquote>
@@ -280,9 +280,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Simple Progress Bar]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/07/a-simple-progress-bar/"/>
+    <link href="http://swy.me/blog/2012/09/07/a-simple-progress-bar/"/>
     <updated>2012-09-07T17:44:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/07/a-simple-progress-bar</id>
+    <id>http://swy.me/blog/2012/09/07/a-simple-progress-bar</id>
     <content type="html"><![CDATA[<p>This is an impressive use of CSS applied to just one HTML progress tag.</p>
 
 <figure class='code'> <div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
@@ -378,9 +378,9 @@
   
   <entry>
     <title type="html"><![CDATA[Everything is a Module]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/07/everything-is-a-module/"/>
+    <link href="http://swy.me/blog/2012/09/07/everything-is-a-module/"/>
     <updated>2012-09-07T14:05:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/07/everything-is-a-module</id>
+    <id>http://swy.me/blog/2012/09/07/everything-is-a-module</id>
     <content type="html"><![CDATA[<p>Drew Barontini talks about learning to stay modular in his stylesheets for application development, for instance simplifying a collection of content like a comment or review or user block and making reusable styles that are general to all of them.</p>
 
 <blockquote><p>I found myself repeating this pattern multiple times throughout the application that I am currently working on.</p></blockquote>
@@ -392,9 +392,9 @@
   
   <entry>
     <title type="html"><![CDATA[Samsung should make its own smartphone OS]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/07/samsung-should-make-its-own-smartphone-os/"/>
+    <link href="http://swy.me/blog/2012/09/07/samsung-should-make-its-own-smartphone-os/"/>
     <updated>2012-09-07T11:58:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/07/samsung-should-make-its-own-smartphone-os</id>
+    <id>http://swy.me/blog/2012/09/07/samsung-should-make-its-own-smartphone-os</id>
     <content type="html"><![CDATA[<p>If you don&#8217;t remember Samsung created Bada OS which ended in a slow death.</p>
 
 <blockquote><p>On the other hand, while once-mighty mobile giants like RIM and Microsoft are already fighting for third place, both companies have struggled with delays — so third place could be a low-hanging fruit for a competent contender.</p></blockquote>
@@ -406,9 +406,9 @@
   
   <entry>
     <title type="html"><![CDATA[Apple Seeks to Create Pandora Rival]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/06/apple-seeks-to-create-pandora-rival/"/>
+    <link href="http://swy.me/blog/2012/09/06/apple-seeks-to-create-pandora-rival/"/>
     <updated>2012-09-06T17:33:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/06/apple-seeks-to-create-pandora-rival</id>
+    <id>http://swy.me/blog/2012/09/06/apple-seeks-to-create-pandora-rival</id>
     <content type="html"><![CDATA[<blockquote><p>Apple Inc. is in talks to license music for a custom-radio service similar to the popular one operated by Pandora Media Inc., according to people familiar with the matter, in what would be a bid by the hardware maker to expand its dominance in online music.</p></blockquote>
 
 
@@ -427,9 +427,9 @@
   
   <entry>
     <title type="html"><![CDATA[Deadweight]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/06/deadweight/"/>
+    <link href="http://swy.me/blog/2012/09/06/deadweight/"/>
     <updated>2012-09-06T15:36:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/06/deadweight</id>
+    <id>http://swy.me/blog/2012/09/06/deadweight</id>
     <content type="html"><![CDATA[<blockquote><p>Deadweight is a CSS coverage tool. Given a set of stylesheets and a set of URLs, it determines which selectors are actually used and reports which can be &#8220;safely&#8221; deleted.</p><p><figure class='code'><figcaption><span>How to Use It</span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span><br/><span class='line-number'>2</span><br/><span class='line-number'>3</span><br/></pre></td><td class='code'><pre><code class='sh'><span class='line'><span class="nv">$ </span>deadweight -s styles.css -s ie.css index.html about.html<br/></span><span class='line'><span class="nv">$ </span>deadweight -s http://www.tigerbloodwins.com/index.css http://www.tigerbloodwins.com/<br/></span><span class='line'><span class="nv">$ </span>deadweight --root http://kottke.org/ -s <span class="s1">&#39;/templates/2009/css.php?p=mac&#39;</span> / /everfresh /about<br/></span></code></pre></td></tr></table></div></figure></p></blockquote>
 
 
@@ -441,9 +441,9 @@
   
   <entry>
     <title type="html"><![CDATA[@mrdoob's realtime editor]]></title>
-    <link href="http://stephenway.github.com/blog/2012/09/06/at-mrdoobs-realtime-editor/"/>
+    <link href="http://swy.me/blog/2012/09/06/at-mrdoobs-realtime-editor/"/>
     <updated>2012-09-06T12:56:00-07:00</updated>
-    <id>http://stephenway.github.com/blog/2012/09/06/at-mrdoobs-realtime-editor</id>
+    <id>http://swy.me/blog/2012/09/06/at-mrdoobs-realtime-editor</id>
     <content type="html"><![CDATA[<blockquote><p>Love @mrdoob&#8217;s realtime editor http://mrdoob.com/projects/code-editor/ … Also: offline-enabled! Bonus: he wrote on his inspirations http://news.ycombinator.com/item?id=4478618</p><footer><strong>@paul_irish</strong> <cite><a href='https://twitter.com/paul_irish/statuses/243798388271898624'>twitter.com/paul_irish/statuses/&hellip;</a></cite></footer></blockquote>
 
 
