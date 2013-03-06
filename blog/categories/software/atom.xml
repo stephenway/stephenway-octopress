@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: software | Swy.me]]></title>
-  <link href="http://swy.me/blog/categories/software/atom.xml" rel="self"/>
-  <link href="http://swy.me/"/>
-  <updated>2013-02-10T23:40:31-08:00</updated>
-  <id>http://swy.me/</id>
+  <title><![CDATA[Category: software | stephenway.net]]></title>
+  <link href="http://stephenway.net/blog/categories/software/atom.xml" rel="self"/>
+  <link href="http://stephenway.net/"/>
+  <updated>2013-03-06T08:49:32-08:00</updated>
+  <id>http://stephenway.net/</id>
   <author>
     <name><![CDATA[Stephen Way]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Why Octopress?]]></title>
-    <link href="http://swy.me/blog/2012/08/30/untitled/"/>
+    <link href="http://stephenway.net/blog/2012/08/30/untitled/"/>
     <updated>2012-08-30T18:08:00-07:00</updated>
-    <id>http://swy.me/blog/2012/08/30/untitled</id>
+    <id>http://stephenway.net/blog/2012/08/30/untitled</id>
     <content type="html"><![CDATA[<p>Writing a blog for myself has never been a priority for me until about a year ago. Until then I thought, all I need is a portfolio site, all I need is Wordpress, never use anything else because that is the best setup for a designer and if I ever need a blog I can just switch a few options in Wordpress and add a blog to my site.</p>
 
 <p>I realized something, and I think it is an important lesson to learn if you ever are trying to decide what software to use for anything, just use something simple that does the basics. I could use Wordpress as I have in the past, but I really don't need an administrative interface to write, and I love using my text editor.</p>

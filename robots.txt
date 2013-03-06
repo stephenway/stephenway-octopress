@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://swy.me/sitemap.xml 
+Sitemap: http://stephenway.net/sitemap.xml 
