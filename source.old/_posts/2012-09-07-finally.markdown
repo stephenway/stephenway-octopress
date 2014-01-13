@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Finally"
+date: 2012-09-07 19:28
+comments: false
+external-url: http://www.google.com/search?hl=en&safe=off&q=apple+finally+%22ios+6%22&oq=apple+finally+%22ios+6%22&gs_l=serp.12...0.0.0.3964.0.0.0.0.0.0.0.0..0.0.les%3B..0.0...1c.HDNgtHeullY
+---
+Reviewers getting started early this year on the anticipation of iOS 6. This could amount to an anxiety attack.
+
+Follow up from [&#9733; DF](http://daringfireball.net/linked/2011/06/21/finally)
