@@ -12,8 +12,7 @@ like to chat. Send me a message at [stephen@stephenway.net](mailto:stephen@steph
 
 ## Crawmer's Critterz
 
-{% img right /images/projects/crawmers-critterz/crawmers-critterz.png 350
-Crawmers Critterz %}
+{% img right /images/projects/crawmers-critterz/crawmers-critterz.png 350 Crawmers Critterz %}
 
 ###### Branding, Responsive Design, HTML, SCSS, Javascript
 
@@ -26,8 +25,7 @@ fresh touch.
 
 ## Secure Insurance
 
-{% img right /images/projects/secure-insurance/secure-insurance.png 350
-Secure Insurance %}
+{% img right /images/projects/secure-insurance/secure-insurance.png 350 Secure Insurance %}
 
 ###### Responsive Design, HTML, SCSS, Javascript
 
