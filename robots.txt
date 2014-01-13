@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: 
 
 Sitemap: http://stephenway.net/sitemap.xml 

@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://stephenway.net/sitemap.xml 
