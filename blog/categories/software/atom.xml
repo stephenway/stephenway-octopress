@@ -4,7 +4,7 @@
   <title><![CDATA[Category: software | stephenway.net]]></title>
   <link href="http://stephenway.net/blog/categories/software/atom.xml" rel="self"/>
   <link href="http://stephenway.net/"/>
-  <updated>2013-09-02T12:50:33-07:00</updated>
+  <updated>2014-01-12T21:42:05-08:00</updated>
   <id>http://stephenway.net/</id>
   <author>
     <name><![CDATA[Stephen Way]]></name>
@@ -26,9 +26,7 @@
 
 <p>It&rsquo;s definitely a trade-off, but a good one. Octopress has some beautiful syntax highlighting which will really help me talk about new stuff in the future. For example I&rsquo;ll show you an old gist on how to install Sublime Text&rsquo;s command line utility.</p>
 
-<p><div><script src='https://gist.github.com/2293120.js'></script>
-<noscript><pre><code></code></pre></noscript></div>
-</p>
+<p>{% gist 2293120 %}</p>
 
 <p>This is modified from the official subl documentation to work with a clean install of OS X Lion, I&rsquo;m assuming nothing in Mountain Lion would change this.</p>
 ]]></content>
