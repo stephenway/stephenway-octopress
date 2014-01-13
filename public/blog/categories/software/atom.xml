@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: software | stephenway.net]]></title>
+  <link href="http://stephenway.net/blog/categories/software/atom.xml" rel="self"/>
+  <link href="http://stephenway.net/"/>
+  <updated>2014-01-12T21:44:30-08:00</updated>
+  <id>http://stephenway.net/</id>
+  <author>
+    <name><![CDATA[Stephen Way]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Why Octopress?]]></title>
+    <link href="http://stephenway.net/blog/2012/08/30/untitled/"/>
+    <updated>2012-08-30T18:08:00-07:00</updated>
+    <id>http://stephenway.net/blog/2012/08/30/untitled</id>
+    <content type="html"><![CDATA[<p>Writing a blog for myself has never been a priority for me until about a year ago. Until then I thought, all I need is a portfolio site, all I need is Wordpress, never use anything else because that is the best setup for a designer and if I ever need a blog I can just switch a few options in Wordpress and add a blog to my site.</p>
+
+<p>I realized something, and I think it is an important lesson to learn if you ever are trying to decide what software to use for anything, just use something simple that does the basics. I could use Wordpress as I have in the past, but I really don&rsquo;t need an administrative interface to write, and I love using my text editor.</p>
+
+<p>Speaking of my text editor, another choice of software recently lead me to this conclusion also. I recently made the switch from TextMate to Sublime Text 2, but somewhere in the middle I played with a few &ldquo;other&rdquo; text editors and IDEs as most people do when trying to make a decision. When it came down to it, I can just flat out write code faster with Sublime Text 2. I&rsquo;m not ready to tinker with Chocolat, it was the only editor I haven&rsquo;t spend a couple work days in really testing it&rsquo;s abilities but I don&rsquo;t see it really doing anything that sublime can&rsquo;t already do.</p>
+
+<p>It&rsquo;s definitely a trade-off, but a good one. Octopress has some beautiful syntax highlighting which will really help me talk about new stuff in the future. For example I&rsquo;ll show you an old gist on how to install Sublime Text&rsquo;s command line utility.</p>
+
+<p>{% gist 2293120 %}</p>
+
+<p>This is modified from the official subl documentation to work with a clean install of OS X Lion, I&rsquo;m assuming nothing in Mountain Lion would change this.</p>
+]]></content>
+  </entry>
+  
+</feed>
