@@ -54,7 +54,7 @@ experience, vertical rhythm in it's typography, and application performance.
 
 In the end this turned out to be a great tool to help agents improve their website.
 
-[Visit Scorecard][scorecard] or [View a Sample Report](http://scorecard.io/preview#/www.whins.com)
+[Visit Scorecard][scorecard] or [View a Sample Report](http://scorecard.io/www.whins.com)
 
 
 ## Compass-blueprint
@@ -213,6 +213,6 @@ Send a message to [stephen@stephenway.com](mailto:stephen@stephenway.com)
 [mobiquote]:        http://agencyrevolution.com/products/agency-revolution/mobiquote
 [mobiquotedemo]:    http://warwickresource.com/mobile/
 [mosaicinsurance]:  http://mosaicia.com/
-[scorecard]:        http://scorecard.io/preview
+[scorecard]:        http://scorecard.io/
 [secureinsurance]:  http://secureinsurance.ca/
 [susy]:             http://susy.oddbird.net/
